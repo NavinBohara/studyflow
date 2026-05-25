@@ -11,7 +11,7 @@ Built using React, Vite, and Tailwind CSS, the project focuses on delivering a s
 
 ## 🚀 Live Demo
 
-🔗 https://your-live-demo-link.netlify.app
+🔗 (https://studyflowco.netlify.app/)
 
 ---
 
