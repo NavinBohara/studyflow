@@ -35,7 +35,7 @@ Built using React, Vite, and Tailwind CSS, the project focuses on delivering a s
   <img src="Pomodoro.png" width="900">
 </p>
 
-### Analytics
+### Goals
 
 <p align="center">
   <img src="Goals.png" width="900">
